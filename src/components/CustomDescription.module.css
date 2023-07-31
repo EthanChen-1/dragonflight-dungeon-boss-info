@@ -1,0 +1,9 @@
+.description a {
+  color: #fab833;
+  text-decoration: none;
+}
+
+.description a:hover,
+.description a:active {
+  text-decoration: underline;
+}
